@@ -1,6 +1,6 @@
 Feature: Sauce Demo login Test
 
-  @regression1
+  @regression
   Scenario: login to sauceDemo and verify user logged in
     Given  user is in sauce Demo login page
     When user proved valid username
